@@ -1,5 +1,5 @@
 ## C - Recursion
-
+#Recursion Projects
 #### [0. She locked away a secret, deep inside herself, something she once knew to be true... but chose to forget](0-puts_recursion.c)
 
 Write a function that prints a string, followed by a new line.
@@ -60,6 +60,5 @@ Write a function that compares two strings and returns 1 if the strings can be c
 - Prototype: int wildcmp(char *s1, char *s2);
 - s2 can contain the special character *.
 - The special char * can replace any string (including an empty string) 
-
 
 
